@@ -8,8 +8,16 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 [solved problem in C](main.c)
 
+[solved problem in Java](Main.java)
+
 ### Problema Nº 01
 
 Se listarmos todos os números naturais inferiores a 10 que são múltiplos de 3 ou 5, obteremos 3, 5,6 e 9. A soma destes múltiplos é 23.
 
 Encontre a soma de todos os multiplos de 3 ou 5 inferiores a 1000.
+
+[Resoluçao do problema em Python](main.py)
+
+[Resoluçao do problema em C](main.c)
+
+[Resoluçao do problema em Java](Main.java)
